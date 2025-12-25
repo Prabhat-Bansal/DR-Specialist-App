@@ -1,0 +1,5 @@
+{
+  "name": "DRSpecialist",
+  "description": "An intelligent medical specialist finder that helps you identify the right healthcare professional based on your symptoms or conditions using advanced AI analysis.",
+  "requestFramePermissions": []
+}
